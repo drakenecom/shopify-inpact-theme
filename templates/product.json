@@ -97,6 +97,13 @@
             "title": "Comment fonctionnent exactement les soutiens-gorge minimiseur Hilaine ?",
             "content": "<p>L’espace central agit en douceur pour <strong>séparer la poitrine</strong> et répartir le volume légèrement vers les côtés. Résultat : une silhouette <strong>en sablier flatteuse</strong>, sans débordements disgracieux comme avec certains soutiens-gorge classiques.</p><p>Imaginez l’effet d’un push-up qui rapproche et rehausse les seins vers le centre : <strong>le minimiseur fait l’inverse</strong>. Il répartit délicatement le volume de la poitrine pour une forme <strong>plus large, naturelle et équilibrée</strong> — un peu comme si l’on pressait doucement une balle pour l’élargir et lui donner une rondeur plus diffuse.</p>"
           }
+        },
+        "collapsible_text_bMxRcW": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Est-il confortable et bien maintenu ?",
+            "content": "<p><strong>Oui, absolument.</strong><br/><br/>Il a été conçu pour offrir un <strong>maintien optimal tout au long de la journée</strong>, sans compromis sur le confort. Sa matière ultra-douce, semblable au coton sur la peau, assure un soutien complet <strong>sans marquer ni comprimer</strong>.</p><p>Ses <strong>bretelles larges</strong> et sa bande extensible travaillent ensemble pour <strong>soutenir et rehausser la poitrine</strong> sans l’écraser. Résultat : vous êtes maintenue et à l’aise du matin jusqu’au soir — c’est confirmé par <strong>96 % de nos clientes.</strong></p>"
+          }
         }
       },
       "block_order": [
@@ -113,7 +120,8 @@
         "buy_buttons",
         "collapsible_text_8ryAWG",
         "collapsible_text_dH7t6g",
-        "collapsible_text_PrtKCa"
+        "collapsible_text_PrtKCa",
+        "collapsible_text_bMxRcW"
       ],
       "settings": {
         "full_width": true,
