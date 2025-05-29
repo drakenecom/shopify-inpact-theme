@@ -202,7 +202,6 @@
       "block_order": [
         "image_mq7GDb"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -216,7 +215,7 @@
           "settings": {
             "image": "shopify://shop_images/Nevtelenterv_43_1645da9a-b452-4ae7-a8a6-95ad41d662b0.png",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
@@ -237,7 +236,6 @@
       "block_order": [
         "image_yBiqGD"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
