@@ -83,6 +83,13 @@
             "title": "Pourquoi vous allez l’adorer ?",
             "content": "<p><strong>Confiance au quotidien</strong><br/><br/>Dites adieu aux bourrelets et bonjour à la confiance avec notre soutien-gorge minimiseur ! Conçu dans une matière extensible et respirante, il réduit visiblement la poitrine tout en douceur, pour une silhouette naturelle et affinée qui booste votre assurance.</p><p><strong>Invisible sous tous vos vêtements</strong><br/><br/>Sa magie ? Une coupe lisse et sans démarcation : aucun pli, aucune bosse, juste une silhouette nette et élégante. Parfait sous un t-shirt comme sous un haut ajusté, il sublime toutes les morphologies sans effort.</p><p><strong>Confort et ajustement sur mesure</strong><br/><br/>Ses bretelles réglables vous offrent un maintien parfait, avec la possibilité de le transformer en dos nageur pour s’adapter à toutes vos tenues. L’armature soulève sans comprimer, et sa couverture intégrale sur les côtés et à l’avant assure un confort optimal toute la journée.</p><p><strong>Votre allié de tous les jours</strong><br/><br/>C’est le soutien-gorge qui vous enveloppe comme il faut : stylé, confortable et ultra facile à porter… Il deviendra vite votre indispensable pour vous sentir belle et bien dans votre peau.</p>"
           }
+        },
+        "collapsible_text_dH7t6g": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ce soutien-gorge va-t-il vraiment rendre ma poitrine visuellement plus petite ?",
+            "content": "<p>Oui ! Ce soutien-gorge est spécialement conçu pour remodeler et répartir votre poitrine de façon à offrir un effet visuellement plus petit et harmonieux — sans l’écraser ni provoquer d’inconfort.</p>"
+          }
         }
       },
       "block_order": [
@@ -97,7 +104,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible_text_8ryAWG"
+        "collapsible_text_8ryAWG",
+        "collapsible_text_dH7t6g"
       ],
       "settings": {
         "full_width": true,
