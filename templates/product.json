@@ -111,6 +111,13 @@
             "title": "Does it look natural?",
             "content": "<p>Yes, it gives a natural appearance. It smooths and shapes without adding extra padding, so you still get a natural silhouette—just minimized.</p>"
           }
+        },
+        "collapsible_text_yFdAtp": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "I struggle with shopping because of my large chest—will this help?",
+            "content": "<p>Yes! The Hilaine Minimizer Bra is designed to create a smoother, more balanced silhouette by redistributing your bust while maintaining comfort. It helps clothes such as dresses and baby tees fit more effortlessly and feel more flattering, so you can shop with confidence without worrying about the all-day support.</p>"
+          }
         }
       },
       "block_order": [
@@ -129,7 +136,8 @@
         "collapsible_text_dH7t6g",
         "collapsible_text_PrtKCa",
         "collapsible_text_bMxRcW",
-        "collapsible_text_FqgeWb"
+        "collapsible_text_FqgeWb",
+        "collapsible_text_yFdAtp"
       ],
       "settings": {
         "full_width": true,
