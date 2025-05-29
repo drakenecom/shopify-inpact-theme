@@ -108,15 +108,15 @@
         "collapsible_text_FqgeWb": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Does it look natural?",
-            "content": "<p>Yes, it gives a natural appearance. It smooths and shapes without adding extra padding, so you still get a natural silhouette—just minimized.</p>"
+            "title": "Est-ce que le rendu est naturel ?",
+            "content": "<p><strong>Oui, il offre un rendu naturel.</strong><br/><br/>Il lisse et sculpte la poitrine <strong>sans ajout de rembourrage</strong>, pour une silhouette qui reste naturelle — simplement <strong>réduite et affinée</strong>.</p>"
           }
         },
         "collapsible_text_yFdAtp": {
           "type": "collapsible_text",
           "settings": {
-            "title": "I struggle with shopping because of my large chest—will this help?",
-            "content": "<p>Yes! The Hilaine Minimizer Bra is designed to create a smoother, more balanced silhouette by redistributing your bust while maintaining comfort. It helps clothes such as dresses and baby tees fit more effortlessly and feel more flattering, so you can shop with confidence without worrying about the all-day support.</p>"
+            "title": "J’ai du mal à m’habiller à cause de ma forte poitrine — est-ce que ce soutien-gorge peut m’aider ?",
+            "content": "<p><strong>Oui, absolument !</strong><br/><br/>Le soutien-gorge minimiseur Hilaine est conçu pour créer une <strong>silhouette plus lisse et harmonieuse</strong> en répartissant subtilement le volume de la poitrine, tout en garantissant un confort maximal.</p><p>Il permet à vos vêtements — comme les robes ou les tops ajustés — de <strong>mieux tomber</strong> et d’être <strong>plus flatteurs</strong>, sans vous soucier du maintien. Résultat : vous faites votre shopping <strong>en toute confiance</strong>, libérée de l’inconfort habituel.</p>"
           }
         }
       },
