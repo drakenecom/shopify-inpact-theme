@@ -90,6 +90,13 @@
             "title": "Ce soutien-gorge va-t-il vraiment rendre ma poitrine visuellement plus petite ?",
             "content": "<p>Oui ! Ce soutien-gorge est spécialement conçu pour remodeler et répartir votre poitrine de façon à offrir un effet visuellement plus petit et harmonieux — sans l’écraser ni provoquer d’inconfort.</p>"
           }
+        },
+        "collapsible_text_PrtKCa": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment fonctionnent exactement les soutiens-gorge minimiseur Hilaine ?",
+            "content": "<p>L’espace central agit en douceur pour <strong>séparer la poitrine</strong> et répartir le volume légèrement vers les côtés. Résultat : une silhouette <strong>en sablier flatteuse</strong>, sans débordements disgracieux comme avec certains soutiens-gorge classiques.</p><p>Imaginez l’effet d’un push-up qui rapproche et rehausse les seins vers le centre : <strong>le minimiseur fait l’inverse</strong>. Il répartit délicatement le volume de la poitrine pour une forme <strong>plus large, naturelle et équilibrée</strong> — un peu comme si l’on pressait doucement une balle pour l’élargir et lui donner une rondeur plus diffuse.</p>"
+          }
         }
       },
       "block_order": [
@@ -105,7 +112,8 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_8ryAWG",
-        "collapsible_text_dH7t6g"
+        "collapsible_text_dH7t6g",
+        "collapsible_text_PrtKCa"
       ],
       "settings": {
         "full_width": true,
