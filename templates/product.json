@@ -214,6 +214,7 @@
         "image_yBiqGD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nevtelenterv_43_1645da9a-b452-4ae7-a8a6-95ad41d662b0.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
