@@ -104,6 +104,13 @@
             "title": "Est-il confortable et bien maintenu ?",
             "content": "<p><strong>Oui, absolument.</strong><br/><br/>Il a été conçu pour offrir un <strong>maintien optimal tout au long de la journée</strong>, sans compromis sur le confort. Sa matière ultra-douce, semblable au coton sur la peau, assure un soutien complet <strong>sans marquer ni comprimer</strong>.</p><p>Ses <strong>bretelles larges</strong> et sa bande extensible travaillent ensemble pour <strong>soutenir et rehausser la poitrine</strong> sans l’écraser. Résultat : vous êtes maintenue et à l’aise du matin jusqu’au soir — c’est confirmé par <strong>96 % de nos clientes.</strong></p>"
           }
+        },
+        "collapsible_text_FqgeWb": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Does it look natural?",
+            "content": "<p>Yes, it gives a natural appearance. It smooths and shapes without adding extra padding, so you still get a natural silhouette—just minimized.</p>"
+          }
         }
       },
       "block_order": [
@@ -121,7 +128,8 @@
         "collapsible_text_8ryAWG",
         "collapsible_text_dH7t6g",
         "collapsible_text_PrtKCa",
-        "collapsible_text_bMxRcW"
+        "collapsible_text_bMxRcW",
+        "collapsible_text_FqgeWb"
       ],
       "settings": {
         "full_width": true,
