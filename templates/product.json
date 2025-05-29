@@ -118,6 +118,13 @@
             "title": "J’ai du mal à m’habiller à cause de ma forte poitrine — est-ce que ce soutien-gorge peut m’aider ?",
             "content": "<p><strong>Oui, absolument !</strong><br/><br/>Le soutien-gorge minimiseur Hilaine est conçu pour créer une <strong>silhouette plus lisse et harmonieuse</strong> en répartissant subtilement le volume de la poitrine, tout en garantissant un confort maximal.</p><p>Il permet à vos vêtements — comme les robes ou les tops ajustés — de <strong>mieux tomber</strong> et d’être <strong>plus flatteurs</strong>, sans vous soucier du maintien. Résultat : vous faites votre shopping <strong>en toute confiance</strong>, libérée de l’inconfort habituel.</p>"
           }
+        },
+        "collapsible_text_QMARJz": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Entretien de votre soutien-gorge en dentelle",
+            "content": "<p>🧼 <strong>Lavage à la main avec précaution</strong><br/><br/>Lavez votre soutien-gorge en dentelle (87 % nylon, 13 % élasthanne) à la main à l’eau froide, ou utilisez un cycle délicat pour préserver les fibres et l’élasticité.</p><p>🧴 <strong>Utilisez une lessive douce uniquement</strong><br/><br/>Privilégiez une lessive douce pour ne pas abîmer le nylon et l’élasthanne. Évitez l’eau de Javel et les adoucissants, qui fragilisent les matières avec le temps.</p><p>🌬️ <strong>Séchage à l’air libre</strong><br/><br/>Épongez délicatement avec une serviette, puis faites sécher à plat ou sur un étendoir. Évitez le sèche-linge et l’exposition directe au soleil pour ne pas altérer la couleur.</p><p>🧺 <strong>Rangement soigné</strong><br/><br/>Pliez-le soigneusement ou suspendez-le par le centre pour conserver sa forme. Gardez-le à l’abri de l’humidité et du soleil.</p><p>🔁 <strong>À remplacer si nécessaire</strong><br/><br/>Changez de soutien-gorge dès que le maintien faiblit ou que la dentelle montre des signes d’usure.</p>"
+          }
         }
       },
       "block_order": [
@@ -137,7 +144,8 @@
         "collapsible_text_PrtKCa",
         "collapsible_text_bMxRcW",
         "collapsible_text_FqgeWb",
-        "collapsible_text_yFdAtp"
+        "collapsible_text_yFdAtp",
+        "collapsible_text_QMARJz"
       ],
       "settings": {
         "full_width": true,
