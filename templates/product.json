@@ -208,6 +208,40 @@
         "spacing": "small"
       }
     },
+    "media_with_text_YEtzG8": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_yBiqGD": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Fini les regards gênants quand vous prenez la parole",
+            "content": "<p>Les soutiens-gorge trop lourds tirent sur les épaules et fatiguent le dos. Ce modèle, lui, est conçu pour <strong>rehausser et répartir le poids de manière équilibrée</strong>, soulageant instantanément les tensions, <strong>réduisant visuellement la taille de bonnet</strong> et offrant un confort incomparable.</p><p>Son design <strong>léger mais ultra-soutenant</strong> améliore votre posture, vous aidant à vous tenir plus droite et à vous sentir mieux tout au long de la journée.<br/><br/><strong>Plus de douleurs à la mi-journée, plus de pression — juste un confort pur et sans effort.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yBiqGD"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -234,6 +268,7 @@
   "order": [
     "main",
     "media_with_text_gLqHt8",
+    "media_with_text_YEtzG8",
     "related-products"
   ]
 }
